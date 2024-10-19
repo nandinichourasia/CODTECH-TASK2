@@ -29,3 +29,15 @@ HTML is used to create and structure the web page including headings, paragraphs
 To define the styling and layout of web pages and make them more visually appealing, user-friendly, and accessible CSS is used in the project.
 
 JavaScript is used since it adds interactivity to web pages, such as drop-down menus, form validation, real-time data display etc.
+
+
+OUTPUT SCREENSHOTS:
+
+![Screenshot 2024-10-20 002724](https://github.com/user-attachments/assets/04b36c79-f356-49ed-862d-bd211244cbc1)
+
+
+![Screenshot 2024-10-20 003201](https://github.com/user-attachments/assets/09fba7a1-a2d1-4b9d-b08b-e60e5e7260e2)
+
+![Screenshot 2024-10-20 003031](https://github.com/user-attachments/assets/5a1e9272-279a-4b23-a828-a5b0d6deede0)
+
+
